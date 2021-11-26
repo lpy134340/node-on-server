@@ -30,7 +30,7 @@ module.exports = (app) => {
             movie._id === movieId ? newMovie : movie);
         res.json(movies);
     }
-app.put('/api/movies/:mid', updateMovie);
+    app.put('/api/movies/:mid', updateMovie);
     app.post('/api/movies', createMovie);
     app.delete('/api/movies/:mid', deleteMovie);
     app.get('/api/movies', getAllMovies);

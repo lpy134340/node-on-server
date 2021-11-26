@@ -1,4 +1,7 @@
 const model = require('./model');
+const findMovieById = (id) =>
+  model.findById(id);
+
 const findAllMovies = () => model.find();
 
 const deleteMovie = (id) =>
