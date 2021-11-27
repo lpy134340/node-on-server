@@ -1,6 +1,5 @@
 [
   {
-    "_id": "123",
     "topic": "Web Development",
     "userName": "ReactJS",
     "verified": false,
@@ -20,7 +19,6 @@
     }
   },
   {
-    "_id": "567",
     "topic": "Space",
     "userName": "SpaceX",
     "verified": false,
@@ -41,7 +39,6 @@
     }
   },
   {
-    "_id": "234",
     "topic": "Space",
     "userName": "Scott Manley",
     "verified": true,
@@ -60,7 +57,6 @@
     }
   },
   {
-    "_id": "345",
     "topic": "Web Development",
     "userName": "jQuery",
     "verified": false,
@@ -78,7 +74,6 @@
     }
   },
   {
-    "_id": "456",
     "topic": "Web Development",
     "userName": "NodeJS",
     "verified": true,
